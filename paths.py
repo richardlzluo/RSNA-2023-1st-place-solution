@@ -1,5 +1,5 @@
 class PATHS:
-    BASE_PATH = "/mnt/md0/rsna_abd/"
+    BASE_PATH = "/kaggle/working/"
 
     OUTPUT_BASE = f'{BASE_PATH}/KAGGLE_SUBMISSION/'
 
