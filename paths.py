@@ -1,5 +1,5 @@
 class PATHS:
-    BASE_PATH = "/kaggle/working/"
+    BASE_PATH = "/kaggle/"
 
     OUTPUT_BASE = f'{BASE_PATH}/KAGGLE_SUBMISSION/'
 
