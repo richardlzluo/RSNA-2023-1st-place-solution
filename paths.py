@@ -13,7 +13,7 @@ class PATHS:
 
     SEGMENTATION_MODEL_SAVE = '/kaggle/input/preprocess-data-seg/Data/KAGGLE_SUBMISSION/SEG_MODELS'
 
-    INFO_DATA_SAVE = '/kaggle/input/preprocess-data-seg/Data/KAGGLE_SUBMISSION/info_data1_processed_v1.csv'
+    INFO_DATA_SAVE = '/kaggle/working/output/KAGGLE_SUBMISSION/info_data1_processed_v1.csv'
 
     THEO_DATA_PATH = f'{BASE_PATH}/theo_images/'
     THEO_SAVE_PATH = f'{BASE_PATH}/KAGGLE_SUBMISSION/theo_data/'
